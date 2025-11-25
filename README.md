@@ -1,11 +1,11 @@
-# 💱 Currency Converter (No API)
+#  Currency Converter (No API)
 
 A simple and lightweight **Currency Converter** application built using predefined exchange rates.  
 This project does **not use any external APIs**, making it ideal for offline use, learning, and understanding basic conversion logic.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Convert between multiple currencies using fixed exchange rates  
 - No internet connection required  
@@ -15,7 +15,7 @@ This project does **not use any external APIs**, making it ideal for offline use
 
 ---
 
-## 📌 How It Works
+##  How It Works
 
 The converter uses a dictionary (or simple predefined variables) to store exchange rates relative to a base currency.  
 When the user selects two currencies and inputs the amount, the program calculates the converted value using:
@@ -23,7 +23,7 @@ When the user selects two currencies and inputs the amount, the program calculat
 
 ---
 
-## 🧩 Example Supported Currencies
+##  Example Supported Currencies
 
 - USD – US Dollar  
 - EUR – Euro  
@@ -34,7 +34,7 @@ When the user selects two currencies and inputs the amount, the program calculat
 
 ---
 
-## 🛠️ Installation & Usage
+##  Installation & Usage
 
 1. **Clone the repository**
    ```bash
